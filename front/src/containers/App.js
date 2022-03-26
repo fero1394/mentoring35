@@ -6,8 +6,8 @@ class App extends Component {// component stateful
   render() {
     return (
       <div>
-        <h3>Lista Random</h3>
-        <p>Sistema Ramdom - Demo</p>
+        <h3>Carta Aleatoria</h3>
+     
         <From />
         <Result />
       </div>
